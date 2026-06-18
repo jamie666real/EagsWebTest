@@ -2,4 +2,4 @@
 
 Made by [jamie666real](https://github.com/jamie666real)
 
-WASM version available at https://jamie666real.github.io/Legend-Client/wasm
+WASM version available at https://catsfoolyou.github.io/EagsWebTest/wasm
