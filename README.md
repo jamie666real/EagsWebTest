@@ -1,5 +1,5 @@
-# Eaglercraft 1.12
+# Legend Client 1.12
 
-Made by [Peytonplayz595](https://github.com/PeytonPlayz595)
+Made by [jamie666real](https://github.com/jamie666real)
 
 WASM version available at https://catfoolyou.github.io/EagsWebTest/wasm
