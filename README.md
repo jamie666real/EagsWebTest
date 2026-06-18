@@ -2,4 +2,4 @@
 
 Made by [jamie666real](https://github.com/jamie666real)
 
-WASM version available at https://catfoolyou.github.io/EagsWebTest/wasm
+WASM version available at https://jamie666real.github.io/EagsWebTest/wasm
